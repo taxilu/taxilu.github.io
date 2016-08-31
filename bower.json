@@ -1,0 +1,20 @@
+{
+  "name": "taxilu.github.io",
+  "homepage": "https://taxilu.github.io",
+  "authors": [
+    "mech6 <mechsix@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
